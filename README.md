@@ -27,10 +27,6 @@ A sleek AI chatbot powered by **Google Gemini 2.0 Flash** — built with pure HT
 ## Tech Stack
 `HTML5` `CSS3` `JavaScript` `Gemini 2.0 Flash API`
 
----
-
-## Live Demo
-🔗 **[YOUR-USERNAME.github.io/cognix-chatbot/cognix-chatbot.html](https://YOUR-USERNAME.github.io/cognix-chatbot/cognix-chatbot.html)**
 
 ---
 
